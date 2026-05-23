@@ -118,7 +118,7 @@ Google Gemini AI SDK
         ▼
 AI Incident Orchestration Engine
 
-# 🛡️ Security Capabilities
+## 🛡️ Security Capabilities
 
 - Role-Based Access Control (RBAC)
 - Threat Escalation Engine
@@ -128,7 +128,7 @@ AI Incident Orchestration Engine
 - Secure Ticket Validation
 - Real-Time Threat Telemetry
 
-# 📈 Scalability
+## 📈 Scalability
 
 StadiumSOC is designed using modular cloud-native architecture.
 
