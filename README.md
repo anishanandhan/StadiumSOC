@@ -22,7 +22,7 @@ Real-Time Crowd Intelligence • AI Incident Orchestration • Smart Ingress Mon
 
 # 🎥 Demo Preview
 
-![Demo](./screenshots/demo.gif)
+![Demo](./screenshots/1)
 
 ## 🚀 Live Demo
 
