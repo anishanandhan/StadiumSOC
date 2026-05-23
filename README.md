@@ -20,11 +20,29 @@ Real-Time Crowd Intelligence • AI Incident Orchestration • Smart Ingress Mon
 
 ---
 
+# 🎥 Demo Preview
+
+![Demo](./screenshots/demo.gif)
+
 ## 🚀 Live Demo
 
 🔗 https://stadiumsoc-ai.web.app
 
 ---
+
+# 📚 Table of Contents
+
+- Overview
+- Key Features
+- System Architecture
+- Tech Stack
+- Installation
+- Deployment
+- Screenshots
+- Security Features
+- Future Scope
+- Contributing
+- License
 
 # 📌 Overview
 
