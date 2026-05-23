@@ -24,13 +24,13 @@ Real-Time Crowd Intelligence • AI Incident Orchestration • Smart Ingress Mon
 
 ## 🔐 Access Command Center
 
-![Login Dashboard](./screenshots/1.png)
+![Login Dashboard](./screenshots/2.png)
 
 ---
 
 ## 🏟️ Live Stadium Security Operations Center
 
-![SOC Dashboard](./screenshots/2.png)
+![SOC Dashboard](./screenshots/1.png)
 
 ---
 
