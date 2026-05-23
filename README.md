@@ -1,5 +1,11 @@
 # StadiumSOC
 
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Firebase](https://img.shields.io/badge/Backend-Firebase-orange)
+![Gemini AI](https://img.shields.io/badge/AI-Gemini-purple)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 <p align="center">
   <img src="./src/assets/Logo.png" width="180" alt="StadiumSOC Logo"/>
 </p>
