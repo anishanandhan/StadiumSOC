@@ -117,3 +117,13 @@ Google Gemini AI SDK
         │
         ▼
 AI Incident Orchestration Engine
+
+# 🛡️ Security Capabilities
+
+- Role-Based Access Control (RBAC)
+- Threat Escalation Engine
+- AI Incident Prioritization
+- Crowd Risk Analytics
+- VIP Zone Protection
+- Secure Ticket Validation
+- Real-Time Threat Telemetry
