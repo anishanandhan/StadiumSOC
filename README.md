@@ -127,3 +127,20 @@ AI Incident Orchestration Engine
 - VIP Zone Protection
 - Secure Ticket Validation
 - Real-Time Threat Telemetry
+
+# 📈 Scalability
+
+StadiumSOC is designed using modular cloud-native architecture.
+
+The system can scale to:
+- Multiple stadium deployments
+- Multi-event orchestration
+- Distributed ingress nodes
+- High-volume telemetry pipelines
+- AI-assisted incident routing
+
+Future infrastructure support includes:
+- Kubernetes
+- Edge AI Nodes
+- Multi-region Firebase deployment
+- Real-time WebSocket telemetry
