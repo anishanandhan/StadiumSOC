@@ -20,13 +20,17 @@ Real-Time Crowd Intelligence • AI Incident Orchestration • Smart Ingress Mon
 
 ---
 
-# 🎥 Demo Preview
+# 📸 Screenshots
 
-![Demo](./screenshots/1)
+## 🔐 Access Command Center
 
-## 🚀 Live Demo
+![Login Dashboard](./screenshots/1.png)
 
-🔗 https://stadiumsoc-ai.web.app
+---
+
+## 🏟️ Live Stadium Security Operations Center
+
+![SOC Dashboard](./screenshots/2.png)
 
 ---
 
